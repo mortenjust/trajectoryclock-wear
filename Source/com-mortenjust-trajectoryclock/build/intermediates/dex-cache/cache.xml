@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/1-base/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/1-base/build/intermediates/pre-dexed/debug/classes-8213b081fb9e2c2ad504032676fd2c1157113516.jar" />
+    </item>
+    <item
+        jar="/Users/mortenjust/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/1-base/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-b52e1fab080103c45658349dc079106019f3f083.jar" />
+    </item>
+    <item
+        jar="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/1-base/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/1-base/build/intermediates/pre-dexed/debug/classes-68b4680dae39dcfcfac6ef51d3aa60290269e851.jar" />
+    </item>
+    <item
+        jar="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/1-base/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/1-base/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-6a836bfa70661ab2afd1693df546ade1c323cbcc.jar" />
+    </item>
+    <item
+        jar="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/1-base/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/1-base/build/intermediates/pre-dexed/debug/classes-0ee7a9840ed12b43e59098e9ee5e8bab798eb13d.jar" />
+    </item>
+    <item
+        jar="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/2-background/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/2-background/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-9e030b1af26431e219b3528759a5aa2b0fc34ec2.jar" />
+    </item>
+    <item
+        jar="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/2-background/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/2-background/build/intermediates/pre-dexed/debug/classes-02369eb81ebcdafba51cc0237dfe702041362fd8.jar" />
+    </item>
+    <item
+        jar="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/2-background/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/2-background/build/intermediates/pre-dexed/debug/classes-58a8e1e4c9c979d138b0ca8172dc7566f9891065.jar" />
+    </item>
+    <item
+        jar="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/2-background/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/2-background/build/intermediates/pre-dexed/debug/classes-8e409e05741edc6b5ee84c0255937e8062591017.jar" />
+    </item>
+    <item
+        jar="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/1-base/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/1-base/build/intermediates/pre-dexed/debug/classes-81e8339ca219f0cf7473566ddb4f76597622d04e.jar" />
+    </item>
+    <item
+        jar="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/2-background/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/2-background/build/intermediates/pre-dexed/debug/classes-82ac9287f85d07468dad1d08c3a384de30a62a49.jar" />
+    </item>
+    <item
+        jar="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/1-base/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/1-base/build/intermediates/pre-dexed/debug/classes-209bc34ac208691381240975e70fe9a7a5be0e43.jar" />
+    </item>
+    <item
+        jar="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/2-background/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/mortenjust/Dropbox/hack/watchface/android-codelab-watchface/2-background/build/intermediates/pre-dexed/debug/classes-c5d24e38706ab50ad77ab277bc4afb3cd80d0e79.jar" />
+    </item>
+
+</items>
