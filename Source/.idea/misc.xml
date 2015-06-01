@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../one-button/src/Onebutton" value="4294946367000" />
+        <entry key="$PROJECT_DIR$" value="2855513234000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -10,7 +21,5 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/classes" />
-  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
 </project>
